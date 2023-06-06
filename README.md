@@ -1,2 +1,3 @@
-# june6th
-this is a test project to experiment with Git
+# Test Project
+
+This is a test, really just looking to get more familar with Git.
